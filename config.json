@@ -1,0 +1,16 @@
+{
+  "local": {
+    "log_dir": "./docker/logs/"
+  },
+  "aws": {
+    "global": {
+      "region": "",
+      "sns_topic_name": "",
+      "topic_role_location": ""
+    },
+    "credentials": {
+      "aws_access_key_id": "",
+      "aws_secret_access_key": ""
+    }
+  }
+}

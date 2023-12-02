@@ -1,0 +1,8 @@
+.venv
+temp/
+**/.DS_Store
+.vscode
+files/
+__pycache__
+/docker/logs/*
+!/docker/logs/.gitkeep
